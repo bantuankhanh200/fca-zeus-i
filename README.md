@@ -17,11 +17,11 @@ See [below](#projects-using-this-api) for projects using this API.
 See the [full changelog](/CHANGELOG.md) for release details.
 
 ## Install
-If you just want to use fca-unofficial, you should use this command:
+If you just want to use fca-zeus, you should use this command:
 ```bash
-npm install fca-unofficial
+npm install fca-zeus
 ```
-It will download `fca-unofficial` from NPM repositories
+It will download `fca-zeus` from NPM repositories
 
 ### Bleeding edge
 If you want to use bleeding edge (directly from github) to test new features or submit bug report, this is the command for you:
